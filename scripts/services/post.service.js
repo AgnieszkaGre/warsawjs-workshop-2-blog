@@ -12,7 +12,7 @@ export class PostService {
 
     static create(data) {
         data.id = posts.length+1;
-        posts.unshift(data);
+        posts.put(data);
         return new Promise((resolve, reject) => {
             resolve(data);
         })
