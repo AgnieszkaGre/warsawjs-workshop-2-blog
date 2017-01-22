@@ -1,1 +1,1 @@
-# warsawjs-workshop-2-blog
+https://agnieszkagre.github.io/warsawjs-workshop-2-blog/
